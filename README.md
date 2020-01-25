@@ -34,3 +34,10 @@ If you feel rusty about programming in general or p5.js specifically, start by t
 
 If you are stuck, reach out on Slack!
 
+## Assignments
+
+### Week 1: Deconstruction Practice
+
+Find two computational works and deconstruct them -- figure out what subcomponents you'd need to create or find in order to recreate the work. Create a system diagram if it would be helpful. 
+
+Upload your work to a [new GitHub repository](https://github.com/zamfi/github-guide) and [email us the link](mailto:zamfi@cca.edu,bhaynes@cca.edu).
